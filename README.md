@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&width=435&lines=React+%7C+Node+%7C+Mongo+%7C+Express+Dev;C+%7C+C%2B%2B+%7C+Java+Programmer;DSA+and+ML+in+Progress+%F0%9F%93%9A;Always+learning+something+new+%F0%9F%8C%8F" />
 </p>
+
 ---
 
 ### 🧠 About Me
