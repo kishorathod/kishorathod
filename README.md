@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kishor</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer from India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=React+Developer+%F0%9F%92%BB;Code+%2B+Design+Lover+%F0%9F%92%96;Always+learning+something+new+%F0%9F%93%9A" />
-</p>
-
----
-<h1 align="center">Hi 👋, I'm Kishor</h1>
 <h3 align="center">🚀 MERN Stack Developer | Passionate Coder | Learning Python and Machine Learning</h3>
 
 <p align="center">
