@@ -84,10 +84,4 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-### 💡 Random Developer Quote
-
-![Quote](https://readme-quote-api.vercel.app/api)
-
-
-
 > 🧠 *“The best way to learn is to build.” – Keep creating, keep growing!*
