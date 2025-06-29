@@ -52,7 +52,8 @@
 - 🔗 [ClearText – React Text Utility App](https://github.com/kishorathod/ClearText-text-utility-react-app)
   > A feature-rich React app to manipulate and analyze text — includes formatting, conversion, and real-time preview!
 
-
+- 🔗[#-studysync---smart-study-dashboard - (https://github.com/kishorathod/StudySync?tab=readme-ov-file)
+  > live at: https://study-sync-ismn.vercel.app/
 
 ---
 
