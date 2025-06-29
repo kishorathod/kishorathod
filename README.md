@@ -57,7 +57,7 @@
 
 ### 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/kishorathod)
+- 💼 [LinkedIn](www.linkedin.com/in/kishor-rathod-5873b0272)
 - 📧 krr8088@gmail.com 
 - 🌐 Portfolio: *Coming soon...*
 
