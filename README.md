@@ -11,6 +11,7 @@
 
 - 🌱 Currently learning: **DSA**, **Machine Learning**
 - 💬 Ask me about: **MERN stack, React, Express, Java, C++**
+
 ---
 
 ### 🛠️ Tech Stack
@@ -37,7 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</p>
 
+---
 
 ### 🔥 GitHub Stats
 <p align="center">
@@ -49,11 +52,15 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 [ClearText – React Text Utility App](https://github.com/kishorathod/ClearText-text-utility-react-app)
+- 🔗 [ClearText – React Text Utility App](https://github.com/kishorathod/ClearText-text-utility-react-app)  
   > A feature-rich React app to manipulate and analyze text — includes formatting, conversion, and real-time preview!
 
-- 🔗[Studysync - smart-study-dashboard (https://github.com/kishorathod/StudySync?tab=readme-ov-file)
-  > live at: https://study-sync-ismn.vercel.app/
+- 🔗 [StudySync – Smart Study Dashboard](https://github.com/kishorathod/StudySync)  
+  > A full-stack productivity app for students to stay focused and track study goals.  
+  🌐 [Live Demo](https://study-sync-ismn.vercel.app/)
+
+- 🔗 [AI-Powered Waste Management App](https://github.com/kishorathod/Ai-Powered-Food-West-Management-Application-Using-Mern-Stack)  
+  > A MERN-based app using AI to detect and manage waste more efficiently for communities.
 
 ---
 
@@ -76,5 +83,3 @@
 ---
 
 > 🧠 *“The best way to learn is to build.” – Keep creating, keep growing!*
-
-
