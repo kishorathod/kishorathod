@@ -84,4 +84,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?theme=tokyonight" />
+</p>
+
+
 > 🧠 *“The best way to learn is to build.” – Keep creating, keep growing!*
